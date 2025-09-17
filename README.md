@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 
 ---
 
+## About Me
+
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,cpp,git,docker,linux,vim,md,mysql,postgres,sqlite,mongo)](https://skillicons.dev)
+
+---
+
 ## Certificates & Addresses
 
 ### Addresses
