@@ -49,9 +49,9 @@ MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
 
 #### Certificates
 
-**XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [Certificate](certificate/chat.asc)
+**XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [Certificate](certificates/chat.asc)
 
 
-**XYKL-CODE**: `ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218` [Certificate](certificate/code.asc)
+**XYKL-CODE**: `ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218` [Certificate](certificates/code.asc)
 
 
