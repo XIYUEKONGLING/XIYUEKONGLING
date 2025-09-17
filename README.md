@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-### Certificates & Addresses
+## Certificates & Addresses
 
-#### Addresses
+### Addresses
 
 > Bitcoin (BTC)
 
@@ -47,7 +47,7 @@ D9FGfKo82aHF9TQvKouWLgraXaSZuiDG73
 MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
 ```
 
-#### Certificates
+### Certificates
 
 **XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [Certificate](certificates/chat.asc)
 
