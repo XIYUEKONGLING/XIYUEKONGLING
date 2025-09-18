@@ -10,9 +10,9 @@
 
 ---
 
-## 证书 & 地址 / Certificates & Addresses
+## 证书 & 区块链地址 / Certificates & Addresses
 
-### 地址 / Addresses
+### 区块链地址 / Addresses
 
 > Bitcoin (BTC)
 
@@ -39,6 +39,8 @@ MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
 ```
 
 ### 证书 / Certificates
+
+> OpenPGP / GnuPG
 
 **XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
 
