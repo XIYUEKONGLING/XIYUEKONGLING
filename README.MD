@@ -40,7 +40,7 @@ MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
 
 ### 证书 / Certificates
 
-**XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [(Certificat)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
+**XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
 
 
 **XYKL-CODE**: `ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218` [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/code.asc)
