@@ -25,7 +25,17 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md&perline=16)](https://skillicons.dev)
 
+## 📈 Github Statistics
+
+<p align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=light&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=dark&hide_border=true">
+</p>
+
+
 ---
+
+## 🔏 Certificates
 
 > **OpenGPG Fingerprint:** **CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4** (XYKL-CHAT) [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
 
