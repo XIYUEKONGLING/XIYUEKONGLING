@@ -29,7 +29,7 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 <p align="center">
 
-  ![Statistics](https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true"/>
 
 </p>
 
