@@ -29,14 +29,14 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=tokyonight&hide_border=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <picture height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=truetheme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=radical&hide_border=true"/>
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true" height="180" />
+  <picture height="180">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true"/>
   </picture>
 
 </div>
