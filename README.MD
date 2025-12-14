@@ -1,50 +1,29 @@
-# Hello~ 🍥🏳️‍⚧️
+<h1 align="center">XiYueNYA 🐱 | Backend Enthusiast 💻</h1>
 
-## 关于 / About
+## 💫 About Me
 
-后端开发者，主语言 C# & JAVA！
+Hi, I'm XiYueNYA 👋  
+A backend-oriented developer who enjoys building systems and APIs.
 
-### 技能 / Skills
+<!-- A backend-focused developer who enjoys system design and clean architecture. -->
+
+- 🛠️ Mainly working with **C#**, **Java**, and **Rust**  
+- 🐍 Also familiar with **Python**, and a bit of **C / C++**  
+- 🎨 Not great at frontend development, but I do enjoy **UI/UX design**  
+- 🔌 Occasionally play with **microcontrollers** and low-level stuff
+
+I care a lot about **privacy**, so I rarely share personal life on social media.  
+You might find me using **different IDs or nicknames** on different platforms.
+
+🔐 I care deeply about **privacy**, so I tend to keep my personal life off social media.  
+Most of my time here is spent building, experimenting, and learning quietly.
+
+
+### 🔍 My Skills
 
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,cpp,git,docker,linux,vim,md,mysql,postgres,sqlite,mongo)](https://skillicons.dev)
 
 ---
 
-## 证书 & 区块链地址 / Certificates & Addresses
-
-### 区块链地址 / Addresses
-
-> Bitcoin (BTC)
-
-```text
-bc1pgsv6h86wcmk6sc42dd9fapgtguq2f00sxank4lrzm3q7qvdj4ats4x5x94
-```
-
-> Ethereum (ETH)
-
-```text
-0x9524DBE26e1cF235ef0E67Dee0813D5409377c66
-```
-
-> Dogecoin (DOGE)
-
-```text
-D9FGfKo82aHF9TQvKouWLgraXaSZuiDG73
-```
-
-> Litecoin (LTC)
-
-```text
-MRPbCWEorD1So7YVM5BmPPoigm4WPyp4Yx
-```
-
-### 证书 / Certificates
-
-> OpenPGP / GnuPG
-
-**XYKL-CHAT**: `CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4` [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
-
-
-**XYKL-CODE**: `ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218` [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/code.asc)
-
-
+> **OpenGPG Fingerprint:** **CBCB 3EA3 A760 11A2 81C5 F015 EA76 3C30 CEFE E0F4** (XYKL-CHAT) [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/chat.asc)
+> **OpenGPG Fingerprint:** **ACD5 A8CB F821 A58A 0E33 A601 D26B F906 1462 7218** (XYKL-CODE) [(Certificate)](https://raw.githubusercontent.com/XIYUEKONGLING/XIYUEKONGLING/refs/heads/main/certificates/code.asc)
