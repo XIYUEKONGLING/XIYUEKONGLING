@@ -28,8 +28,7 @@ Most of my time here is spent building, experimenting, and learning quietly.
 ## 📈 Github Statistics
 
 <p align="center">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=light&hide_border=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=dark&hide_border=true">
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true)
 </p>
 
 
