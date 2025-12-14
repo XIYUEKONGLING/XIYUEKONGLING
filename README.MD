@@ -37,8 +37,8 @@ Most of my time here is spent building, experimenting, and learning quietly.
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&size_weight=false&count_weight=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&langs_count=10&theme=radical&hide_border=true&size_weight=false&count_weight=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true" />
   </picture>
 
 </div>
