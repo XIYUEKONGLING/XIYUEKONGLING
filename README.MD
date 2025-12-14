@@ -19,9 +19,11 @@ You might find me using **different IDs or nicknames** on different platforms.
 Most of my time here is spent building, experimenting, and learning quietly.
 
 
-### 🔍 My Skills
+## 🔍 My Skills
 
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,cpp,git,docker,linux,vim,md,mysql,postgres,sqlite,mongo)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,python,golang,js,ts,html,css,vue,fastapi,nodejs,git,github,vscode,vim,docker,cloudflare,bash,godot,ubuntu,debian,arch&perline=12)](https://skillicons.dev)
 
 ---
 
