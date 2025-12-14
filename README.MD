@@ -21,7 +21,7 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 ## 🔍 My Skills
 
-[![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,git,github,vscode,visualstudio,vim,docker,cloudflare,bash,godot,linux,ubuntu,debian,arch,mysql,postgres,sqlite,mongo,md&perline=12)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,git,github,vscode,visualstudio,vim,docker,cloudflare,bash,godot,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md,cmake,gcp,gradle,idea,kubernetes,postman,powershell,rider,spring,unity,vscodium&perline=14)](https://skillicons.dev)
 
 ---
 
