@@ -27,18 +27,18 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 ## 📈 Github Statistics
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <!-- GitHub Stats Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=tokyonight&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=XIYUEKONGLING&show_icons=true&theme=radical&hide_border=true" />
   </picture>
-  
-  <!-- Top Languages Card -->
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&size_weight=false&count_weight=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&langs_count=10&theme=radical&hide_border=true&size_weight=false&count_weight=false" />
   </picture>
 
 </div>
