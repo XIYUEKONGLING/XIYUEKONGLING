@@ -1,4 +1,4 @@
-<h1 align="center">XiYueNYA 🐱 | Backend Enthusiast 💻</h1>
+<h2 align="center">XiYueNYA 🐱 | Backend Enthusiast 💻</h2>
 
 ## 💫 About Me
 
