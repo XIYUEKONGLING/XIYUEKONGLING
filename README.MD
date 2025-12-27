@@ -1,16 +1,19 @@
-<h2 align="center">XiYueNYA 🐱 | Backend Enthusiast 💻</h2>
+<h2 align="center">XiYueNYA 🐱 | Full-stack Developer 💻</h2>
 
 ## 💫 About Me
 
 Hi, I'm XiYueNYA 👋  
-A backend-oriented developer who enjoys building systems and APIs.
 
+A full-stack developer with a strong backend focus, enjoying building systems, APIs, and complete applications.
+
+<!-- A full-stack developer with a backend-first mindset, caring about structure and long-term maintainability. -->
 <!-- A backend-focused developer who enjoys system design and clean architecture. -->
 
-- 🛠️ Mainly working with **C#**, **Java**, and **Rust**  
-- 🐍 Also familiar with **Python**, and a bit of **C / C++**  
-- 🎨 Not great at frontend development, but I do enjoy **UI/UX design**  
-- 🔌 Occasionally play with **microcontrollers** and low-level stuff
+- 🛠️ Backend: **C#**, **Java**, **Rust**  
+- 🌐 Frontend: familiar with modern frontend workflows and **UI/UX design**  
+- 🐍 Also experienced with **Python**, and some **C / C++**  
+- 🔌 Occasionally play with **microcontrollers** and low-level stuff  
+- 🧠 Interested in **system design**, architecture, and how things fit together
 
 I care a lot about **privacy**, so I rarely share personal life on social media.  
 You might find me using **different IDs or nicknames** on different platforms.
