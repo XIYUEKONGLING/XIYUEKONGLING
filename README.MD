@@ -28,6 +28,8 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 [![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md&perline=16)](https://skillicons.dev)
 
+<!--https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md,react,androidstudio,blender,clion,eclipse,electron,express,figma,flask,gtk,htmx,ipfs,kali,maven,nextjs,nuxtjs&perline=16-->
+
 ## 📈 Github Statistics
 
 <div align="center">
