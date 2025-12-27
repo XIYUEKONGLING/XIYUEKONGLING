@@ -1,4 +1,4 @@
-<h2 align="center">XiYueNYA 🐱 | Full-stack Developer 💻</h2>
+<h2 align="center">XiYueNYA 🐱 | Full-Stack Developer 💻</h2>
 
 ## 💫 About Me
 
