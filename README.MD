@@ -32,6 +32,7 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 ## 📈 Github Statistics
 
+<!--
 <div align="center">
 
   <picture>
@@ -53,6 +54,33 @@ Most of my time here is spent building, experimenting, and learning quietly.
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true"
+    />
+  </picture>
+
+</div>
+-->
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-status.xynya.xyz/api?username=XIYUEKONGLING&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
+    />
+    <img
+      height="180"
+      src="https://github-status.xynya.xyz/api?username=XIYUEKONGLING&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-status.xynya.xyz/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <img
+      height="180"
+      src="https://github-status.xynya.xyz/api/top-langs/?username=XIYUEKONGLING&layout=compact&theme=radical&hide_border=true"
     />
   </picture>
 
