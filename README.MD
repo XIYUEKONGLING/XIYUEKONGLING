@@ -21,6 +21,10 @@ You might find me using **different IDs or nicknames** on different platforms.
 🔐 I care deeply about **privacy**, so I tend to keep my personal life off social media.  
 Most of my time here is spent building, experimenting, and learning quietly.
 
+📘 **Writing & Notes**
+
+- [Blog](/https://blog.xynya.xyz/) — Personal blog & notes  
+- [Next](/https://next.xynya.xyz/) — Another space for experiments and evolving ideas
 
 ## 🔍 My Skills
 
