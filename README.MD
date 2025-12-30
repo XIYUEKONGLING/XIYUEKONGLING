@@ -23,8 +23,8 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 📘 **Writing & Notes**
 
-- [Blog](/https://blog.xynya.xyz/) — Personal blog & notes  
-- [Next](/https://next.xynya.xyz/) — Another space for experiments and evolving ideas
+- [Blog](https://blog.xynya.xyz/) — Personal blog & notes  
+- [Next](https://next.xynya.xyz/) — Another space for experiments and evolving ideas
 
 ## 🔍 My Skills
 
