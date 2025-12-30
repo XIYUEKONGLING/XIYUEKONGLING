@@ -26,9 +26,9 @@ Most of my time here is spent building, experimenting, and learning quietly.
 
 <!--https://skillicons.dev/icons?i=dotnet,cs,java,rust,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,git,github,vscode,visualstudio,vim,docker,cloudflare,bash,godot,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md,cmake,gcp,gradle,idea,kubernetes,postman,powershell,rider,spring,unity,vscodium,pycharm,kotlin&perline=16-->
 
-[![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md&perline=16)](https://skillicons.dev)
+<!--https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md&perline=16-->
 
-<!--https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md,react,androidstudio,blender,clion,eclipse,electron,express,figma,flask,gtk,htmx,ipfs,kali,maven,nextjs,nuxtjs&perline=16-->
+[![Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,kotlin,spring,gradle,c,cpp,python,golang,js,ts,html,css,vue,fastapi,nodejs,idea,rider,pycharm,vscode,vscodium,visualstudio,vim,git,github,cmake,godot,unity,postman,powershell,bash,docker,kubernetes,gcp,cloudflare,linux,ubuntu,debian,mint,arch,nix,mysql,postgres,sqlite,mongo,md,react,androidstudio,blender,clion,eclipse,electron,express,figma,flask,gtk,htmx,ipfs,kali,maven,nextjs,nuxtjs&perline=16)](https://skillicons.dev)
 
 ## 📈 Github Statistics
 
